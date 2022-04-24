@@ -2,9 +2,10 @@
 This project has been created for the exam of Machine Learning of the Master's Degree course at the University of Turin.
 
 The project is divided in 3 sections:
- 1. Decision Tree Models
- 2. Distance Based Models
- 3. Probabilistic Models
+ - Decision Tree Models
+ - Distance Based Models
+ - Linear Models
+ - Probabilistic Models
 
 Each of these has its own requirements file which specifies the libraries required for notebooks within it.
 
@@ -35,6 +36,8 @@ In `clustering.ipynb` we use and compare different clustering algorithms: K-mean
   <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/main/docs/clustering.png"/>
 </p>
 
+### Distance Based Models
+In this section we apply the support vector machines to an artificial dataset built by my professor.
 
 ### Probabilistic Models
 In this section we compare two models for categorical data probabilistic modeling: 
