@@ -13,7 +13,7 @@ In this section there is the `iris_classification.ipynb`.
 The purpose of this notebook is to manipulate the sk-learn iris dataset by applying transformations to the data within it and training different Decision Tree classifiers.
 
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/master/docs/decision-tree.png"/>
+  <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/main/docs/decision-tree.png"/>
 </p>
 
 Then we analyze the performance of the classifiers according to different metrics including the accuracy score, f1 score and plotting the ROC curves.
@@ -26,13 +26,13 @@ In `iris_classification_knn.ipynb` we compare the prediction results obtained by
 Finally we test and tune the gamma hyperparameter of a Radial Basis Function (RBF) Kernel used in k-nn as weight between data-points.
 
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/master/docs/knn.png"/>
+  <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/main/docs/knn.png"/>
 </p>
 
 In `clustering.ipynb` we use and compare different clustering algorithms: K-means and DBScan.
 
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/master/docs/clustering.png"/>
+  <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/main/docs/clustering.png"/>
 </p>
 
 
