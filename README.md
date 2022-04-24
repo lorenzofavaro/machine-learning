@@ -36,7 +36,7 @@ In `clustering.ipynb` we use and compare different clustering algorithms: K-mean
   <img src="https://github.com/lorenzofavaro/Machine-Learning/blob/main/docs/clustering.png"/>
 </p>
 
-### Distance Based Models
+### Linear Models
 In this section we apply the support vector machines to an artificial dataset built by my professor.
 
 ### Probabilistic Models
