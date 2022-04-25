@@ -7,8 +7,6 @@ The project is divided in 4 sections:
  - Linear Models
  - Probabilistic Models
 
-Each of these has its own requirements file which specifies the libraries required for notebooks within it.
-
 ### Decision Tree Models
 In this section there is the `iris_classification.ipynb`.
 The purpose of this notebook is to manipulate the sk-learn iris dataset by applying transformations to the data within it and training different Decision Tree classifiers.
