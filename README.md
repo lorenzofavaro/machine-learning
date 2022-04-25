@@ -1,7 +1,7 @@
 # Machine-Learning
 This project has been created for the exam of Machine Learning of the Master's Degree course at the University of Turin.
 
-The project is divided in 3 sections:
+The project is divided in 4 sections:
  - Decision Tree Models
  - Distance Based Models
  - Linear Models
