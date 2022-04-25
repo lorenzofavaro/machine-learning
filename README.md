@@ -47,7 +47,7 @@ We adopt a dataset on Twitter messages labelled with emotions (Joy vs Sadness).
 ## Setup
 - Clone repository
 - Create a virtual environment and activate it
-- Install all the required libraries (you find the `requirements.txt` for each section) through `pip install -r requirements.txt`
+- Install all the required libraries through `pip install -r requirements.txt`
 - Open and launch any notebook
 
 ## Contributing
